@@ -1,1 +1,1 @@
-B: add main.txt
+A: add main.txt
